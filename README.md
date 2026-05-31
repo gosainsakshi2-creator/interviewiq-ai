@@ -66,6 +66,27 @@ GROQ_API_KEY=your_api_key_here
 * Interview analytics dashboard
 * Performance tracking
 
+##Screenshots
+## 📸 Landing Page
+
+![Landing Page](landing-page.png)
+
+## 📄 Resume Upload
+
+![Resume Upload](resume-upload.png)
+
+## 🎥 Environment Check
+
+![Environment Check](environment-check%20(1).png)
+
+## 🤖 Interview Room
+
+![Interview Room](interview-room.png)
+
+## 📊 Performance Report
+
+![Performance Report](performance-report.png)
+
 ## Developer
 
 **Sakshi Gosain**
