@@ -77,7 +77,7 @@ GROQ_API_KEY=your_api_key_here
 
 ## 🎥 Environment Check
 
-![Environment Check](environment-check%20(1).png)
+![Environment Check](environment-check.png)
 
 ## 🤖 Interview Room
 
