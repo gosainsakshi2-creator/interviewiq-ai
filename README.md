@@ -75,6 +75,10 @@ GROQ_API_KEY=your_api_key_here
 
 ![Resume Upload](resume-upload.png)
 
+## 📄 Resume Analysis
+
+![Resume Analysis](report-analysis.png)
+
 ## 🎥 Environment Check
 
 ![Environment Check](environment-check.png)
